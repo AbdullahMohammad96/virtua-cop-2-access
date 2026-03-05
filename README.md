@@ -72,3 +72,6 @@ Once offsets are found, update `src/GameState.cpp` in the `Offsets` namespace.
 ## License
 
 MIT — free to use, share, and modify. Contributions welcome.
+
+# this is a very early version
+these instructions are not guaranteed to work. i am trying to make a game i enjoyed playing without knowing the story or what the heck i am doing accessible. this is not an official project by any means. help is appreciated but be kind to me. i don't know anything about coding but i love trying new things out. help and contribute if you can.
